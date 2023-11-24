@@ -1,0 +1,5 @@
+source leaprc.gaff
+CMB=loadmol2 ../ligand_files/CMB.mol2
+loadamberparams ../ligand_files/CMB.frcmod
+saveoff CMB ../ligand_files/CMB.lib
+quit

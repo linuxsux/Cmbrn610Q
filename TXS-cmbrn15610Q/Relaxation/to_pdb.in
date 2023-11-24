@@ -1,0 +1,7 @@
+parm TXS-cmbrn15.prmtop
+trajin Relaxation/TXS-cmbrn15_relaxed.rst7
+trajout TXS-cmbrn15_relaxed.pdb PDB
+
+center :1-789
+image familiar
+go

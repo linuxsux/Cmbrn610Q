@@ -1,0 +1,7 @@
+parm TXS-cmbrn15.prmtop
+trajin QM_MM/TXS-cmbrn15_qmmm.rst7
+trajout TXS-cmbrn15_qmmm.pdb PDB
+
+center :1-789
+image familiar
+go
